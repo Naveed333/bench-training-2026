@@ -1,0 +1,94 @@
+{
+  "top_20_words": [
+    {
+      "word": "us",
+      "count": 11
+    },
+    {
+      "word": "ai",
+      "count": 11
+    },
+    {
+      "word": "says",
+      "count": 5
+    },
+    {
+      "word": "foreignmade",
+      "count": 4
+    },
+    {
+      "word": "routers",
+      "count": 4
+    },
+    {
+      "word": "tech",
+      "count": 4
+    },
+    {
+      "word": "bans",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "out",
+      "count": 3
+    },
+    {
+      "word": "into",
+      "count": 3
+    },
+    {
+      "word": "online",
+      "count": 2
+    },
+    {
+      "word": "pay",
+      "count": 2
+    },
+    {
+      "word": "billion",
+      "count": 2
+    },
+    {
+      "word": "wind",
+      "count": 2
+    },
+    {
+      "word": "intuit",
+      "count": 2
+    },
+    {
+      "word": "now",
+      "count": 2
+    },
+    {
+      "word": "internet",
+      "count": 2
+    },
+    {
+      "word": "million",
+      "count": 2
+    },
+    {
+      "word": "fraud",
+      "count": 2
+    },
+    {
+      "word": "exclusive",
+      "count": 2
+    }
+  ],
+  "most_upvoted": {
+    "title": "A High School Student Just Built a Water Filter That Removes 96% of Microplastics, Without Expensive Equipment",
+    "score": 21884,
+    "url": "https://dailygalaxy.com/2026/03/teen-built-water-filter-microplastics/"
+  },
+  "avg_upvotes": 1869.6,
+  "posts_today": 10,
+  "posts_older": 40,
+  "total_posts": 50,
+  "generated_at": "2026-03-24T07:48:14.431598+00:00"
+}
